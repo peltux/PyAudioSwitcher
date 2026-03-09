@@ -1,6 +1,12 @@
 # PyAudioSwitcher
 用于音频设备快速切换
 
+## 安装依赖
+
+```bash
+pip install -r requirements.txt
+```
+
 ## 打包为 exe
 
 ### 安装打包工具
